@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Find My Age</string>
+    <string name="button">Button</string>
+    <string name="name">Name</string>
+    <string name="_01_01_1998">01/01/1998</string>
+    <string name="to">TO</string>
+    <string name="_01_01_2022">01/01/2022</string>
+    <string name="age_calculator">Age Calculator</string>
+    <string name="enter_your_dob">Enter Your DOB</string>
+    <string name="your_date_of_birth">Your Date Of Birth</string>
+</resources>
